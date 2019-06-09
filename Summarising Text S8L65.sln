@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summarising Text S8L65", "Summarising Text S8L65\Summarising Text S8L65.csproj", "{488BA44F-C495-4FD7-BA3A-E6E35E27581E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488BA44F-C495-4FD7-BA3A-E6E35E27581E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488BA44F-C495-4FD7-BA3A-E6E35E27581E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488BA44F-C495-4FD7-BA3A-E6E35E27581E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488BA44F-C495-4FD7-BA3A-E6E35E27581E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B961EE46-2BCD-47F4-8FAB-A362B8A4CB48}
+	EndGlobalSection
+EndGlobal
